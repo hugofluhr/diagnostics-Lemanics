@@ -1,4 +1,11 @@
+# Lemanics team project
+
+Repository containing the Lemanics' team project for the 2022 edition of the nipraxis course.
+
 # Diagnostics project
+TEST SORAYA EDITING README
+
+The purpose of this project is to implement a framework to detect outliers.
 
 Scripts go in the `scripts` directory.
 
